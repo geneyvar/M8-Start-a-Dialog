@@ -66,10 +66,10 @@ anchors_preset = -1
 anchor_left = 0.75
 anchor_right = 1.0
 anchor_bottom = 1.0
-offset_left = -324.0
+offset_left = -330.0
 offset_top = 316.0
 offset_right = -139.67993
-offset_bottom = -18.0
+offset_bottom = -12.0
 focus_mode = 3
 mouse_filter = 0
 
@@ -88,15 +88,11 @@ layout_mode = 2
 
 [node name="Button" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "Test Button"
+text = "Let me sleep a little longer"
 
 [node name="Button2" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "Test Button"
-
-[node name="Button3" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
-layout_mode = 2
-text = "Test Button"
+text = "Let'sn do it!"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 unique_name_in_owner = true
