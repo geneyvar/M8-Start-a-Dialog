@@ -79,7 +79,7 @@ layout_mode = 2
 size_flags_horizontal = 3
 size_flags_vertical = 2
 bbcode_enabled = true
-text = "Hello World"
+text = "Hey,wake up! Its time to make a video game."
 fit_content = true
 
 [node name="ActionButtonsVBoxContainer" type="VBoxContainer" parent="VBoxContainer"]
@@ -88,11 +88,11 @@ layout_mode = 2
 
 [node name="Button" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "Let me sleep a little longer"
+text = "yes"
 
 [node name="Button2" type="Button" parent="VBoxContainer/ActionButtonsVBoxContainer"]
 layout_mode = 2
-text = "Let'sn do it!"
+text = "no"
 
 [node name="AudioStreamPlayer" type="AudioStreamPlayer" parent="."]
 unique_name_in_owner = true
