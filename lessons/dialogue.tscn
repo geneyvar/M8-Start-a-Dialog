@@ -15,7 +15,7 @@ shader_parameter/bg_color = Color(0.980392, 0.94902, 0.72549, 1)
 shader_parameter/pattern_color = Color(0.996078, 0.878431, 0.564706, 1)
 shader_parameter/pattern_size = 256.0
 
-[node name="Dialogue" type="Control"]
+[node name="dialogue" type="Control"]
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
